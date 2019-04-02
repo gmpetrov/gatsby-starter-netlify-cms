@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: The best coffee.
+title: The best coffee. GPETROV
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience test
 subheading: Support sustainable farming while enjoying a cup
