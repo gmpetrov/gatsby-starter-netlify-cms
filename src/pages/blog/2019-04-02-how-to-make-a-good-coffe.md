@@ -6,8 +6,6 @@ description: The best way to make a coffee nowadays
 tags:
   - coffee today now
 ---
-
-
 To make a good coffee is not easy 
 
 # HEY  !
